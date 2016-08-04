@@ -1,0 +1,32 @@
+_repo: Under-the-Deodars_2828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: The education of Otis Yeere -- At the pit's mouth -- A wayside comedy
+  -- The hill of illusion -- A second-rate woman -- Only a subalter -- In the matter
+  of a private -- The enlightenments of Pagett, M.P.
+title: Under the Deodars
+url: http://www.gutenberg.org/ebooks/2828
