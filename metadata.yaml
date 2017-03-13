@@ -1,5 +1,8 @@
 _repo: Under-the-Deodars_2828
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2828#Under-the-Deodars
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
